@@ -15,9 +15,9 @@ fib(1) = 1
 fib(n) = fib(n - 1) + fib(n - 2)
 ```
 
-The **order** mattters.
+The **ORDER** mattters.
 
-Would NOT work if:
+Would **NOT** work if:
 
 ```
 fib :: Int -> Int
